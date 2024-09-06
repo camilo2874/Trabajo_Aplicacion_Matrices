@@ -1,0 +1,19 @@
+
+body {
+    background-color: #b3cde0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+}
+
+
+.content {
+    text-align: center; 
+}
+
+.images img {
+    max-width: 100%; 
+    height: auto; 
+}
